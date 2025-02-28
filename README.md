@@ -21,23 +21,25 @@ Here are some ideas to get you started:
   <table>
     <tr>
       <td colspan="2">
-        <img src="https://github-profile-trophy.vercel.app/?username=tiwariar7&row=1&column=8&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Profile Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=work-garage&row=1&column=8&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Profile Trophies" />
       </td>
     </tr>
     <tr>
       <td style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=tiwariar7&show_icons=true&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=work-garage
+        &show_icons=true&hide_border=true" alt="GitHub Stats" />
       </td>
       <td style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwariar7&theme=default&hide_title=true" alt="Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=work-garage&theme=default&hide_title=true" alt="Streak Stats" />
       </td>
     </tr>
     <tr>
       <td style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariar7&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=work-garage
+      &layout=compact" alt="Top Languages" />
       </td>
       <td style="padding: 10px;">
-        <img src="https://activity-graph.herokuapp.com/graph?username=tiwariar7&theme=github" alt="Activity Graph" />
+        <img src="https://activity-graph.herokuapp.com/graph?username=work-garage&theme=github" alt="Activity Graph" />
       </td>
     </tr>
     <tr>
