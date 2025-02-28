@@ -26,8 +26,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=work-garage
-        &show_icons=true&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=work-garage&show_icons=true&hide_border=true" alt="GitHub Stats" />
       </td>
       <td style="padding: 10px;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=work-garage&theme=default&hide_title=true" alt="Streak Stats" />
@@ -35,8 +34,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=work-garage
-      &layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=work-garage&layout=compact" alt="Top Languages" />
       </td>
       <td style="padding: 10px;">
         <img src="https://activity-graph.herokuapp.com/graph?username=work-garage&theme=github" alt="Activity Graph" />
@@ -44,7 +42,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td colspan="2" style="padding-top: 10px;">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=tiwariar7.tiwariar7" alt="Visitor Badge" />
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=work-garage.work-garage" alt="Visitor Badge" />
       </td>
     </tr>
   </table>  
