@@ -37,7 +37,7 @@ Here are some ideas to get you started:
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=work-garage&layout=compact" alt="Top Languages" />
       </td>
       <td style="padding: 10px;">
-        <img src="https://activity-graph.herokuapp.com/graph?username=work-garage&theme=github" alt="Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=work-garage&theme=github" alt="Activity Graph" />
       </td>
     </tr>
     <tr>
