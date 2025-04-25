@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td colspan="2" style="padding-top: 10px;">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=work-garage" alt="Visitor Badge" />
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=work-garage.work-garage" alt="Visitor Badge" />
       </td>
     </tr>
   </table>  
